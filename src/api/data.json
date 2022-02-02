@@ -1,0 +1,286 @@
+{
+    "columnHeaders": [
+        {
+            "id": "firstName",
+            "label": "First Name",
+            "sortable": "true",
+            "filterable": "true"
+        },
+        {
+            "id": "lastName",
+            "label": "Last Name",
+            "sortable": "true",
+            "filterable": "true"
+        },
+        {
+            "id": "dateOfBirth",
+            "label": "Date of Birth",
+            "sortable": "false",
+            "filterable": "true"
+        },
+        {
+            "id": "designation",
+            "label": "Designation",
+            "sortable": "true",
+            "filterable": "true"
+        },
+        {
+            "id": "department",
+            "label": "Department",
+            "sortable": "true",
+            "filterable": "true"
+        }
+    ],
+    "rowData": [
+        {
+            "id": "user_id_1",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Lou"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Valentine"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "07-11-1992"
+                },
+                {
+                    "id": "designation",
+                    "value": "Software Engineer"
+                },
+                {
+                    "id": "department",
+                    "value": "Engineering"
+                }
+            ]
+        },
+        {
+            "id": "user_id_2",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Hussein"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Scammell"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "07-11-1995"
+                },
+                {
+                    "id": "designation",
+                    "value": "Intern"
+                },
+                {
+                    "id": "department",
+                    "value": "Research and Development"
+                }
+            ]
+        },
+        {
+            "id": "user_id_3",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Ring"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Bowcock"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "4-10-1990"
+                },
+                {
+                    "id": "designation",
+                    "value": "Senior Sales Associate"
+                },
+                {
+                    "id": "department",
+                    "value": "Business Development"
+                }
+            ]
+        },
+        {
+            "id": "user_id_4",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Serene"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Dythum"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "12-10-1992"
+                },
+                {
+                    "id": "designation",
+                    "value": "Office Assistant II"
+                },
+                {
+                    "id": "department",
+                    "value": "Accounting"
+                }
+            ]
+        },
+        {
+            "id": "user_id_5",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Cosette"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Ingleby"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "05-23-1976"
+                },
+                {
+                    "id": "designation",
+                    "value": "Sales Associate"
+                },
+                {
+                    "id": "department",
+                    "value": "Product Managment"
+                }
+            ]
+        },
+        {
+            "id": "user_id_5",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Zollie"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Cluff"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "05-15-1972"
+                },
+                {
+                    "id": "designation",
+                    "value": "Database Adminstrator IV"
+                },
+                {
+                    "id": "department",
+                    "value": "Support"
+                }
+            ]
+        },
+        {
+            "id": "user_id_6",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Carling"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Shoebotham"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "06-19-1982"
+                },
+                {
+                    "id": "designation",
+                    "value": "GIS Technical Architect"
+                },
+                {
+                    "id": "department",
+                    "value": "Research and Development"
+                }
+            ]
+        },
+        {
+            "id": "user_id_6",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Carling"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Shoebotham"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "06-19-1982"
+                },
+                {
+                    "id": "designation",
+                    "value": "GIS Technical Architect"
+                },
+                {
+                    "id": "department",
+                    "value": "Research and Development"
+                }
+            ]
+        },
+        {
+            "id": "user_id_7",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Diego"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Bambling"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "11-5-1976"
+                },
+                {
+                    "id": "designation",
+                    "value": "Accountant IV"
+                },
+                {
+                    "id": "department",
+                    "value": "Product Managment"
+                }
+            ]
+        },
+        {
+            "id": "user_id_8",
+            "data": [
+                {
+                    "id": "firstName",
+                    "value": "Melany"
+                },
+                {
+                    "id": "lastName",
+                    "value": "Muspratt"
+                },
+                {
+                    "id": "dateOfBirth",
+                    "value": "06-07-1978"
+                },
+                {
+                    "id": "designation",
+                    "value": "Financial Advisor"
+                },
+                {
+                    "id": "department",
+                    "value": "Human Resources"
+                }
+            ]
+        }
+    ]
+}
